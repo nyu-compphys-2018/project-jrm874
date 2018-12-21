@@ -1,0 +1,24 @@
+input
+{
+
+N = 24
+hsteps = 50
+hinit = 0
+hstep = 0.025
+J1 = -1.
+J2 = -0.8
+u = 7
+v = 15
+
+beta = 100
+tau = 0.01
+
+
+
+cutoff = 1E-10
+maxm = 5000
+
+Malias = 10
+MMETTS= 50
+
+}
